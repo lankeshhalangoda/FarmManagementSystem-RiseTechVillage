@@ -1,0 +1,33 @@
+.multiselect {
+    .multiselect__tags {
+        height: 10px;
+    }
+
+    .multiselect__select {
+        height: 37px;
+    }
+}
+
+.table > :not(caption) > * > * {
+    padding: 0rem;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.card-body {
+    padding: 0.2rem;
+}
+
+.modal-body {
+    padding: 0;
+    padding-right: 18px;
+    padding-left: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.supplier-name{
+    font-size: 27px !important;
+}
+.company-name{
+    font-size: 14px !important;
+}
