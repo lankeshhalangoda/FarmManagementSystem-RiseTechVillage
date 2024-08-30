@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Aswenna Farm Management System repository! This web application is designed to help farmers manage their crops, inventory, and soil conditions efficiently. Built with Laravel, Vue3, Inertia.js, and MySQL, it offers a user-friendly interface for comprehensive farm management.
+Welcome to the Aswenna Farm Management System repository! This web application is designed to help farmers manage their crops, inventory, and soil conditions efficiently. Built with Laravel, Vue3, Inertia.jsHTML, CSS, JS, and MySQL, it offers a user-friendly interface for comprehensive farm management.
 
 ## Features
 
